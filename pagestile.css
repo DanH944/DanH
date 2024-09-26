@@ -1,0 +1,88 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+    background-color: aqua;
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+    font-size: 14px;
+}
+
+#container {
+    max-width: 1200px;
+    height: 100%;
+    margin: 0 auto;
+    border: solid 3px #000066;
+}
+
+#head{
+    height: 200px;
+    margin: 10px;
+    padding: 10px;
+    border: solid 1px #000066;
+}
+
+#nav{
+    float: left;
+    margin-left: 10px;
+    margin-top: 0px;
+    border: solid 1px #000066;
+    padding: 10px;
+    width: 200px;
+    height: 500px;
+}
+
+#content{
+    height: 500px;
+    width: 750px;
+    border: solid 1px #000066;
+    padding: 10px;  
+    margin-left: 10px;
+    margin-top: 0px;
+    float: left;
+}
+
+#news{
+    float: right;
+    margin-right: 10px;
+    margin-top: 0px;
+    margin-bottom: 10px;
+    border: solid 1px #000066;
+    padding: 10px;
+    width: 140px;
+    height: 500px;
+    text-align: center;
+    font-size: 16px;
+    color: #006;
+    letter-spacing: 3px;
+}
+
+#foth{
+    height: 35px;
+    margin: 10px;
+    padding: 10px;
+    border: solid 1px #000066;
+    clear: both;
+    text-align: right;
+    font-size: 12px;
+    color: #006;
+    letter-spacing: 2px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
